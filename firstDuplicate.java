@@ -6,8 +6,8 @@
  *--------------------------------------------*
  Hash Set  			ArrayList
  -------			---------
- Addition: O(1)			Addition: O(1)
- Contains: O(1)			Contains: O(n)
+ Addition: O(1)		Addition: O(1)
+ Contains: O(1)		Contains: O(n)
 **********************************************/
 
 
